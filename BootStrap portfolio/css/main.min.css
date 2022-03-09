@@ -1,0 +1,1 @@
+body{background-color:red;position:relative;animation-name:jumbo;animation-duration:4s;animation-iteration-count:infinite}@keyframes jumbo{0%{background-color:purple}25%{background-color:#ff0}50%{background-color:blue}75%{background-color:green}100%{background-color:purple}}/*# sourceMappingURL=main.min.css.map */
